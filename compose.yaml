@@ -2,16 +2,6 @@ include:
   - proxy.yaml
 
 services:
-  nginx:
-    image: nginx:latest
-    container_name: nginx-server
-    ports:
-      - "80:80"   # Map port 80 on the host to port 80 in the container (HTTP)
-      - "443:443" # Map port 443 on the host to port 443 in the container (HTTPS)
-    restart: always
-    networks:
-      backend:
-        ipv4_address: 172.20.0.77
   db:
     image: mysql:8
     restart: on-failure

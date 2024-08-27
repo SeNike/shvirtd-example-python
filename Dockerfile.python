@@ -1,11 +1,5 @@
 FROM python:3.9-slim
-
-ENV DB_HOST=172.20.0.10
-ENV DB_TABLE=requests
-ENV DB_USER=root
-ENV DB_NAME=database_1
-ENV DB_PASSWORD=qwerty
-
+RUN apt-get update && apt-get install -y default-mysql-client
 WORKDIR /app
 COPY requirements.txt ./
 RUN pip install -r requirements.txt
