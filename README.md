@@ -4,7 +4,7 @@
 
 ## Задача 4
 
-[4.png](https://github.com/SeNike/shvirtd-example-python/blob/main/4.png)
+![4.png](https://github.com/SeNike/shvirtd-example-python/blob/main/4.png)
 [https://github.com/SeNike/shvirtd-example-python.git](https://github.com/SeNike/shvirtd-example-python.git)
 
 
