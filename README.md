@@ -11,6 +11,7 @@
 Ссылка на репозиторий: 
 [https://github.com/SeNike/shvirtd-example-python.git](https://github.com/SeNike/shvirtd-example-python.git)
 
+_________________________________________________________________________________________________________________
 
 # shvirtd-example-python
 
