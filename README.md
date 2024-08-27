@@ -5,7 +5,10 @@
 ## Задача 4
 
 ![4.png](https://github.com/SeNike/shvirtd-example-python/blob/main/4.png)
+
 [Bash скрипт](https://github.com/SeNike/shvirtd-example-python/blob/main/run.sh)
+
+Ссылка на репозиторий: 
 [https://github.com/SeNike/shvirtd-example-python.git](https://github.com/SeNike/shvirtd-example-python.git)
 
 
