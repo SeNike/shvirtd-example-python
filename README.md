@@ -31,6 +31,10 @@ systemctl start mysql-backup.timer
 Результат:
 
 ![5.png](https://github.com/SeNike/shvirtd-example-python/blob/main/images/5.png)
+
+## Задача 6
+![image](https://github.com/user-attachments/assets/c1ab1568-5b0f-4301-991f-612f919ab761)
+
 _________________________________________________________________________________________________________________
 
 # shvirtd-example-python
