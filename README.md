@@ -29,7 +29,7 @@ systemctl enable mysql-backup.timer
 systemctl start mysql-backup.timer
 
 Результат:
-[5.png](https://github.com/SeNike/shvirtd-example-python/blob/main/images/5.png)
+![5.png](https://github.com/SeNike/shvirtd-example-python/blob/main/images/5.png)
 _________________________________________________________________________________________________________________
 
 # shvirtd-example-python
