@@ -12,9 +12,17 @@
 [https://github.com/SeNike/shvirtd-example-python.git](https://github.com/SeNike/shvirtd-example-python.git)
 
 ## Задача 5
+Запуск резервного копирования каждую минуту:
+
 Создайте файл таймера [/etc/systemd/system/mysql-backup.timer](https://github.com/SeNike/shvirtd-example-python/blob/main/task5/mysql-backup.timer)
 
+Создайте сервис-файл [/etc/systemd/system/mysql-backup.service](https://github.com/SeNike/shvirtd-example-python/blob/main/task5/mysql-backup.service)
 
+Активируйте таймер и запустите его:
+
+systemctl enable mysql-backup.timer
+
+systemctl start mysql-backup.timer
 _________________________________________________________________________________________________________________
 
 # shvirtd-example-python
