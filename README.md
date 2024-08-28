@@ -33,9 +33,16 @@ systemctl start mysql-backup.timer
 ![5.png](https://github.com/SeNike/shvirtd-example-python/blob/main/images/5.png)
 
 ## Задача 6
+
+Анализируем содержимое образа с помощью dive: 
+
 ![image](https://github.com/SeNike/shvirtd-example-python/blob/main/images/6.0.png)
 
+Найдем нужный слой и распакуем его: 
+
 ![image](https://github.com/SeNike/shvirtd-example-python/blob/main/images/6.1.png)
+
+Получили файл terraform на докальной машине.
 
 _________________________________________________________________________________________________________________
 
