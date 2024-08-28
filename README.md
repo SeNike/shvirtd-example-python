@@ -1,4 +1,8 @@
 # Домашнее задание к занятию 5. «Практическое применение Docker»
+## Задача 2
+
+![img](https://github.com/SeNike/shvirtd-example-python/blob/main/images/2.png)
+
 ## Задача 3
 ![3.png](https://github.com/SeNike/shvirtd-example-python/blob/main/images/3.png)
 
