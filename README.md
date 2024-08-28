@@ -11,7 +11,7 @@
 Ссылка на репозиторий: 
 [https://github.com/SeNike/shvirtd-example-python.git](https://github.com/SeNike/shvirtd-example-python.git)
 
-## Задача 5
+## Задача 5*
 bash скрипт для резервного копирования БД mysql в директорию "/opt/backup": 
 
 [https://github.com/SeNike/shvirtd-example-python/blob/main/task5/backup.sh](https://github.com/SeNike/shvirtd-example-python/blob/main/task5/backup.sh)
