@@ -1,0 +1,6 @@
+[Unit]
+Description=MySQL Backup Service
+
+[Service]
+Type=oneshot
+ExecStart=/path/to/your/backup-script.sh
