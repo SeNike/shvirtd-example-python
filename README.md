@@ -1,10 +1,10 @@
 # Домашнее задание к занятию 5. «Практическое применение Docker»
 ## Задача 3
-![3.png](https://github.com/SeNike/shvirtd-example-python/blob/main/3.png)
+![3.png](https://github.com/SeNike/shvirtd-example-python/blob/main/images/3.png)
 
 ## Задача 4
 
-![4.png](https://github.com/SeNike/shvirtd-example-python/blob/main/4.png)
+![4.png](https://github.com/SeNike/shvirtd-example-python/blob/main/images/4.png)
 
 [Bash скрипт](https://github.com/SeNike/shvirtd-example-python/blob/main/run.sh)
 
@@ -29,7 +29,7 @@ systemctl enable mysql-backup.timer
 systemctl start mysql-backup.timer
 
 Результат:
-[5.png]()
+[5.png](https://github.com/SeNike/shvirtd-example-python/blob/main/images/5.png)
 _________________________________________________________________________________________________________________
 
 # shvirtd-example-python
