@@ -58,6 +58,8 @@ FROM scratch
 
 COPY --from=builder /bin/terraform /terraform
 
+![image](https://github.com/SeNike/shvirtd-example-python/blob/main/images/6.2.png)
+
 
 
 _________________________________________________________________________________________________________________
