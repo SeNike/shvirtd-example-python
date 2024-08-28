@@ -11,6 +11,10 @@
 Ссылка на репозиторий: 
 [https://github.com/SeNike/shvirtd-example-python.git](https://github.com/SeNike/shvirtd-example-python.git)
 
+## Задача 5
+Создайте файл таймера [/etc/systemd/system/mysql-backup.timer](https://github.com/SeNike/shvirtd-example-python/blob/main/task5/mysql-backup.timer)
+
+
 _________________________________________________________________________________________________________________
 
 # shvirtd-example-python
