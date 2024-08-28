@@ -44,6 +44,10 @@ systemctl start mysql-backup.timer
 
 Получили файл terraform на докальной машине.
 
+## Задача 6.1
+Копируем terraform используя docker cp
+![image](https://github.com/SeNike/shvirtd-example-python/blob/main/images/7.png)
+
 _________________________________________________________________________________________________________________
 
 # shvirtd-example-python
